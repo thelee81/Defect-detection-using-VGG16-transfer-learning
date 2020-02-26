@@ -16,3 +16,5 @@ To build a defect detection system using deep learning models.
 #Build summary
 Using ImageNet VGG16 weights and transfer learning a model is built on TensorFlow framework.
  
+# Conclusion
+Model was able to achieve valuation accuracy of 100% with training and valuation loss almost near to 0. Able to predict hardest to find rejects like barb connector screw being not fully engaged. Overall, satisfied of the performance with the limited number of image data used; but in future heavy image augmentation maybe reduced or replaced by more image data.
